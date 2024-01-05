@@ -14,11 +14,11 @@
     
     "IntervalClick"           : 5,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/9257395921",
+    "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_OpenAd": "ca-app-pub-3940256099942544/9257395921",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
@@ -37,80 +37,73 @@
 
     "IronSourceKey"           : "1197d7c85",
     
-    "PrivacyUrl"              : "https://sites.google.com/view/devghali/",
-    "webUrl"                  : "https://app-ghali.store/",
-    "URL1"                    : "https://server10.mp3quran.net/jleel/",
-    "URL2"                    : "https://server10.mp3quran.net/jleel/",
-    "URL3"                    : "https://server10.mp3quran.net/jleel/",
-    "OnesignalKey"            : "c24ba096-5e9b-41e7-9965-855813170bdb"
+    "PrivacyUrl": "https://sites.google.com/view/devghali/",
+    "webUrl": "https://app-ghali.store/",
+    "URL1": "https://server10.mp3quran.net/ajm/",
+    "URL2": "https://server10.mp3quran.net/ajm/",
+    "URL3": "https://server10.mp3quran.net/ajm/",
+    "OnesignalKey": "4f025d79-5726-4d27-b0fd-f0fffe534422"
 
   },
   
+  "playList": [
+    {
+      "title": "kok",
+      "track": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+      "locked": true
+    },
+     {
+      "title": "kok 2",
+      "track": "https://zonekapp.com/AndroidStudio/Media/3.mp3",
+      "locked": true
+    }
+  ],
+  "socials": [
+    {
+      "social_name": "facebbok",
+      "social_icon": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png",
+      "social_url": "https://m.facebook.com/QUranFreeMP3/"
+    },
+    {
+      "social_name": "صفحتنا على تويتر",
+      "social_icon": "https://quran-karim-mp3.tk/social/1602600178_twitter.png",
+      "social_url": "https://mobile.twitter.com/FreeQuranMp3/"
+    },
+    {
+      "social_name": "صفحتنا على إنستغرم",
+      "social_icon": "https://quran-karim-mp3.tk/social/1602600239_ig.png",
+      "social_url": "https://www.instagram.com/fullquranmp3/"
+    }
+],
  "AppsPromote": [
     {
-      "name": "سعد الغامدي",
-      "packageName": "net.saadel.ghamidi.quran",
-      "icon": "https://play-lh.googleusercontent.com/S-wABhboQX13Xi9lEX_ZUg6uWMbj3fPrA-QeRhaIW8Mg_cOrzmpmhmQX9-IWcDPhXc8=w240-h480",
+      "name": "صفحتنا على تويتر",
+      "packageName": "com.spotify.music",
+      "icon": "https://play-lh.googleusercontent.com/-9pDazczVT7AjhGgjOh_FZdVS0gg03b1I-TzwDoN1J9B4irnNh1inn_-MDOBprIUfT-U=w240-h480",
       "download": "+100 K"
     },
     {
-      "name": "مشاري العفاسي",
-      "packageName": "net.mishary.rashidalafasy.quran",
-      "icon": "https://play-lh.googleusercontent.com/_H6bm2UPm1Fi8XmJuq_ZG-9X1leNZ7_1oJyc2Ezn-4IGvUgF2z09DCX_nsyUIrROIA=w240-h480",
+      "name": "Audiomack Music",
+      "packageName": "com.audiomack",
+      "icon": "https://play-lh.googleusercontent.com/4zXhkPkaVyWr-1jyOSw63KXVJSoeJRUOasy9x9Lsr2FBFc1RXHI9hZ-Dioud0hmSlYIv=w240-h480",
       "download": "+500 K"
     },
     {
-      "name": "ماهر المعيقلي",
-      "packageName": "net.maher.mueaqly.quran",
-      "icon": "https://play-lh.googleusercontent.com/NBR2fDwn-ldJcGvziuw0U4MBnC69MxjOu0kkzKrPhBYEqCpVylDT8zCKQpGb-ohtGh4=w240-h480",
+      "name": "StarMaker: Sing Karaoke",
+      "packageName": "com.starmakerinteractive.starmaker",
+      "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e=w240-h480",
       "download": "+100 Million"
     },
     {
-      "name": "ياسر الدوسري",
-      "packageName": "net.yasser.dossari.quran",
-      "icon": "https://play-lh.googleusercontent.com/_E2ZqgZWdQJBBGqfoVxHlilcQev7T8UsT6O-9YRF035J8MLcfaz0MAKRaearuRoObow=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "ناصر القطامي",
-      "packageName": "net.nasser.alqatami.quran",
-      "icon": "https://play-lh.googleusercontent.com/5oPGWihcpzynCYrMAgr7TWzjCGInPYyFxsJfqOVxdro3rbeE1MTrOxElp29t-YISTw=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "عبدالرحمن السديس",
-      "packageName": "net.abderrahman.alsoudais.quran",
-      "icon": "https://play-lh.googleusercontent.com/CJmxiTmoKb8Y9y_8C6ofVxprNcacCHzJSeiCVyqY7PAZ1X8_V9-EEE_2_brb6jdRL8v9=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "سعود الشريم",
-      "packageName": "net.saoud.shuraim.quran",
-      "icon": "https://play-lh.googleusercontent.com/vXaI34wsEsT3g6VDzq3v9jXtp8qfE3qjo-0IjCe7xHCRBIjLC39LzzMOAWro-kC4pY0=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "أبو بكر الشاطري",
-      "packageName": "net.AbuBakr.AlShatri.quran",
-      "icon": "https://play-lh.googleusercontent.com/5amyCoc9yx5swLSdhSGL0R72aFM16Cf4UaFZQ3EKEfZ1ANNHLaDpZtYa0_R8pltVLg=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "علي الحذيفي",
-      "packageName": "net.Ali.Alhuthaify.quran",
-      "icon": "https://play-lh.googleusercontent.com/kqRnU6pCraA5idMxeXmeXqm9f7n4ZQ3-oHbrhlOfx5wMTcczjdI2MsowwFuKsjXG_ac=w240-h480",
-      "download": "+50 Million"
-    },
-      {
-      "name": "فارس عباد",
-      "packageName": "net.fares.abbad.quran",
-      "icon": "https://play-lh.googleusercontent.com/lXMi2LAmCjNhL7G527w5YkUPP5teiP8Zfz_aSn3LKVOhBeU6ZjoOGy9uQJih3u4F0TI=w240-h480",
+      "name": "SoundCloud: Play Music",
+      "packageName": "com.soundcloud.android",
+      "icon": "https://play-lh.googleusercontent.com/6FoFUmywGeblaF0iUTWb4EdH2SvXeOU_bgXQFRGhHTRiMWVlG8sAVN-BqjlWUJh3GR3a=w240-h480",
       "download": "+50 Million"
     },
     {
-      "name": "أحمد العجمي",
-      "packageName": "net.ahmed.alajmi.quran",
-      "icon": "https://play-lh.googleusercontent.com/_yAdPHFzxtcu3Fg-t-NxyCZmzJCsILWPIZao_ZQCC3Ci9vFdcB0u19g8vqCTappa5aQ=w240-h480",
+      "name": "Groovepad - music",
+      "packageName": "com.easybrain.make.music",
+      "icon": "https://play-lh.googleusercontent.com/dcJ7ep5ewceCwtR_Xgp7Hfo2GIZxt2WpO5LmqdMfhvKzhOcDmxY84aQBq7kZHs_-vwxP=w240-h480",
       "download": "+100 Million"
     }
   ]
